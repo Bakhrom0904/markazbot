@@ -10,4 +10,6 @@ function getText($keyword,$chat)
     $result = $db->query("SELECT*FROM 'texts' WHERE 'keyword' = '{$keyword}' LIMIT 1");
     $arr = $result->fetch_assoc();
     var_dump($arr);
+
+    
 }

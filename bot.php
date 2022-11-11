@@ -31,6 +31,7 @@ else {
     }
 }
 
+
 function chooseLanguage()
 {
     global $telegram, $chat_id;

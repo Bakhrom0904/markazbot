@@ -2,4 +2,4 @@
 
 include "texts.php";
 
- getmText();
+ echo getmText();

@@ -14,5 +14,12 @@ function getmText($keyword, $chat)
 
     var_dump($arr);
 
+    if(isset($arr[$lang]))
+    {
+        $text = $arr[$lang];
+    }
+
+    return $text;
+
     
 }

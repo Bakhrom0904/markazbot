@@ -2,7 +2,7 @@
 
 $host = "localhost";
 
-$password = "NjScT4uXBNwEe5T1";
+$password = "NjScT4uXBNwEe5T";
 
 $username = "islomovu_nomi";
 
